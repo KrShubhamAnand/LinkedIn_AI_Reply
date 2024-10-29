@@ -1,17 +1,16 @@
-# LinkedInReplyAI
+< LinkedInAIReply >
+=> LinkedInAIReply is a Chrome extension designed to streamline the process of crafting and inserting replies into LinkedIn messages with ease.
 
-LinkedIn Reply AI is a Chrome extension that helps users quickly generate and insert replies into LinkedIn messages with ease.
-
-<h2>To Get Started follow the steps bellow: </h2>
-<ul>
-<li>Download or clone the repository.</li>
-<li>After opening the directory in VScode.</li>
-<li>Run <code>npm i</code> to download all dependencies.</li>
-<li>Run next command <code>npm run build</code> after that you can notice a 'output' directory is generated.</li>
-<li>Open Chrome browser, Click on extension symbol and click on manage extension. </li>
-<li>When you are on 'Manage Extension' page, On Top right croner you can see the developer mode. On the developer mode.</li>
-<li>You can see option 'Load unpacked' click on it. Go to our <code>LinkedInReplyAI Folder => .output => chrome-mv3</code> select folder and then extension will be added to chrome.</li>
-<li>On chrome click extension symbol again there you can see <b>wxt-react-starter</b> click it and follow the further procedure. </li>
-</ul>
-
-https://github.com/user-attachments/assets/6abcff56-b108-4be8-b885-8732a74b4c62
+=> Getting Started:-
+1) Clone or download the repository to your local machine.
+2) Open the project directory in Visual Studio Code.
+3) Run "npm install" to add all necessary dependencies.
+4) After installation, run "npm run build".
+5) This will create an "output" folder in the project directory.
+6) Launch Chrome, click on the Extensions icon, and select "Manage Extensions".
+7) On the Manage Extensions page, toggle "Developer mode" in the top right corner.
+8) Click "Load unpacked", navigate to "LinkedInAIReply/output/chrome-mv3", and select this folder.
+9) This will add the extension to Chrome.
+10) Once added, click the Extensions icon in Chrome, find "wxt-react-starter", and follow the on-screen setup instructions.
+    
+=> This should help you quickly integrate LinkedInReplyAI into Chrome and start generating replies seamlessly.
