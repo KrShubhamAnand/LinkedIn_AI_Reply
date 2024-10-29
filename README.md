@@ -13,7 +13,7 @@
 9) This will add the extension to Chrome.
 10) Once added, click the Extensions icon in Chrome, find "wxt-react-starter", and follow the on-screen setup instructions.
     
-=> This should help you quickly integrate LinkedInReplyAI into Chrome and start generating replies seamlessly.
+=> This should help you quickly integrate LinkedInAIReply into Chrome and start generating replies seamlessly.
 
 
 
